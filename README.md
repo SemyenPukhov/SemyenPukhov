@@ -1,61 +1,71 @@
-# Semyen Pukhov
+![Semyen Pukhov — Senior Full-Stack Engineer](./assets/profile-hero.svg)
 
-Senior Full-Stack Engineer with 7+ years of experience building and shipping
-production products. I work across React, Next.js, TypeScript, Node.js, and
-AWS, and enjoy owning a feature from the first product decision through a
-reliable release.
+<p align="center">
+  <a href="#selected-builds">Selected builds</a> ·
+  <a href="#measurable-engineering-impact">Engineering impact</a> ·
+  <a href="#how-i-work">How I work</a> ·
+  <a href="#contact">Contact</a>
+</p>
 
-My background spans startup teams, real-time product work, infrastructure, and
-technical leadership. I care about the practical details that shape a product:
-fast interfaces, clear APIs, predictable operations, and costs that remain
-under control as usage grows.
+I build product systems end to end: the interface people use, the APIs and
+background jobs behind it, and the operational details that keep it fast and
+affordable. I have 7+ years of experience across startup products, real-time
+applications, and cross-functional technical leadership.
 
-## Engineering impact
+## Selected builds
 
-- Reduced AWS costs by approximately **1.5×** by improving region choices,
-  Lambda configuration, resource hygiene, and CloudFront configuration.
-- Reduced Twitter/X API-related costs by approximately **$3,000 per month**.
-- Reduced LLM token spending by approximately **$600** through more deliberate
-  usage and optimization. The period is not specified.
-- Improved a video player's initial load time from approximately **4s to 1.5s**.
-- Led an approximately six-person cross-functional team including design, QA,
-  backend, full-stack, and DevOps roles.
+|  | Project | What it demonstrates |
+| :-- | :-- | :-- |
+| ↗ | [**CostLens**](https://github.com/SemyenPukhov/costlens) | Cloud-cost intelligence dashboard: typed domain logic, anomaly detection, validated API route, Docker, CI, tests, and a polished responsive UI. |
+| ◌ | **RelayDesk** · in progress | Real-time collaboration and support workflows: presence, authorization, optimistic updates, and audit events. |
+| ◌ | **StreamForge** · planned | Media workflows, processing jobs, CDN-aware delivery, and performance instrumentation. |
+| ◌ | **FlowPilot** · planned | AI workflow automation with provider abstraction, queueing, retries, rate limits, and token controls. |
 
-## Core stack
+> Portfolio projects are independent demos. They demonstrate how I work without
+> exposing NDA-protected products, customers, or internal systems.
 
-`React` · `Next.js` · `TypeScript` · `Node.js` · `Python` · `FastAPI` ·
-`PostgreSQL` · `Redis` · `WebSockets` · `AWS` · `Docker` · `CI/CD`
+## Measurable engineering impact
 
-## Selected work
+<table>
+  <tr>
+    <td width="25%"><b>~1.5×</b><br><sub>AWS cost reduction</sub></td>
+    <td width="25%"><b>$3,000 / month</b><br><sub>Twitter/X API cost reduction</sub></td>
+    <td width="25%"><b>4s → 1.5s</b><br><sub>Video-player initial load</sub></td>
+    <td width="25%"><b>~$600</b><br><sub>LLM token-spend reduction*</sub></td>
+  </tr>
+</table>
 
-Portfolio projects are being built as public, self-contained demo products.
-They are designed to show how I approach product engineering without exposing
-NDA-protected work.
+<sub>*The period for the LLM-cost figure is unspecified.</sub>
 
-| Project | Focus | Status |
-| --- | --- | --- |
-| [CostLens](https://github.com/SemyenPukhov/costlens) | Cost intelligence, anomaly detection, Docker, and observability | Available |
-| RelayDesk | Real-time collaboration, presence, and support workflows | Planned |
-| StreamForge | Media workflows, performance instrumentation, and delivery | Planned |
-| FlowPilot | AI workflow automation, provider abstraction, and token controls | Planned |
+## What I bring to a product team
 
-## What I like working on
+```text
+Product thinking      →  turn ambiguous requests into scoped, shippable work
+Frontend depth        →  responsive React/Next.js interfaces that feel deliberate
+Backend ownership     →  typed APIs, PostgreSQL, Redis, queues, and real-time flows
+Operational judgment  →  AWS, Docker, observability, performance, and cost trade-offs
+Leadership            →  led an approximately six-person cross-functional team
+```
 
-- End-to-end product features, especially where frontend behavior and backend
-  design need to fit together.
-- Performance and reliability work that makes a measurable difference for users.
-- Systems that move expensive work out of the request path and make operational
-  trade-offs visible.
-- Helping small teams turn an unclear problem into a shipped, maintainable
-  product.
+## Core toolkit
+
+`React` `Next.js` `TypeScript` `Node.js` `Python` `FastAPI` `PostgreSQL`
+`Redis` `WebSockets` `AWS` `Docker` `CI/CD`
+
+## How I work
+
+- Move expensive work off the request path and make failure modes visible.
+- Prefer clear domain boundaries and small, testable units over framework noise.
+- Measure performance and cost before optimising; explain the trade-off in the PR.
+- Build UI states for loading, errors, empty data, keyboard use, and smaller screens.
 
 ## Contact
 
-- LinkedIn: [LINKEDIN_URL](LINKEDIN_URL)
-- Telegram: [TELEGRAM_URL](TELEGRAM_URL)
-- Email: [EMAIL_ADDRESS](mailto:EMAIL_ADDRESS)
-
----
-
 Open to Senior Full-Stack Engineer opportunities in Europe, the US, Cyprus, and
 other international teams.
+
+<p>
+  <a href="LINKEDIN_URL">LinkedIn</a> ·
+  <a href="TELEGRAM_URL">Telegram</a> ·
+  <a href="mailto:EMAIL_ADDRESS">Email</a>
+</p>

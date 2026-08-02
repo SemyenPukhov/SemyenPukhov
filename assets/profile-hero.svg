@@ -1,0 +1,21 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="70" y1="0" x2="1120" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#101D32"/><stop offset="1" stop-color="#172D4D"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7CC4FF"/><stop offset="1" stop-color="#7B8CFF"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="42"/></filter>
+  </defs>
+  <rect width="1200" height="420" rx="22" fill="url(#bg)"/>
+  <circle cx="1040" cy="72" r="146" fill="#4268A2" fill-opacity=".35" filter="url(#blur)"/>
+  <circle cx="920" cy="385" r="170" fill="#1A746A" fill-opacity=".24" filter="url(#blur)"/>
+  <path d="M0 335C183 261 235 396 451 308C656 224 803 331 1200 206" stroke="url(#accent)" stroke-opacity=".24" stroke-width="2"/>
+  <path d="M0 357C193 283 257 418 466 330C695 233 843 347 1200 240" stroke="url(#accent)" stroke-opacity=".13" stroke-width="2"/>
+  <rect x="68" y="70" width="94" height="30" rx="15" fill="#25415F"/><circle cx="88" cy="85" r="5" fill="#62D4A9"/><text x="102" y="90" fill="#CFE0F4" font-family="Arial, sans-serif" font-size="13" font-weight="700">AVAILABLE</text>
+  <text x="68" y="177" fill="white" font-family="Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Semyen Pukhov</text>
+  <text x="68" y="227" fill="#A9C4E4" font-family="Arial, sans-serif" font-size="25">Senior Full-Stack Engineer · Product systems from UI to infrastructure</text>
+  <line x1="68" y1="270" x2="710" y2="270" stroke="#426280"/>
+  <text x="68" y="320" fill="#7CC4FF" font-family="Arial, sans-serif" font-size="17" font-weight="700">React · Next.js · TypeScript · Node.js · AWS</text>
+  <text x="68" y="355" fill="#B4C9DE" font-family="Arial, sans-serif" font-size="16">Performance, real-time products, cost-aware architecture</text>
+  <rect x="935" y="126" width="178" height="178" rx="18" fill="#1C3858" stroke="#53759B"/>
+  <path d="M980 251V216M1012 251V180M1044 251V201M1076 251V158" stroke="url(#accent)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M969 187L1012 164L1044 181L1086 130" stroke="#8ED5FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
