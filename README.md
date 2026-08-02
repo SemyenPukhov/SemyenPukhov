@@ -34,7 +34,7 @@ NDA-protected work.
 
 | Project | Focus | Status |
 | --- | --- | --- |
-| CostLens | Cost intelligence, background jobs, RBAC, and observability | In development |
+| [CostLens](https://github.com/SemyenPukhov/costlens) | Cost intelligence, anomaly detection, Docker, and observability | Available |
 | RelayDesk | Real-time collaboration, presence, and support workflows | Planned |
 | StreamForge | Media workflows, performance instrumentation, and delivery | Planned |
 | FlowPilot | AI workflow automation, provider abstraction, and token controls | Planned |
