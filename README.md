@@ -1,10 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0d13,50:4f48d6,100:e3a13c&text=Semyen%20Pukhov&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer&descSize=24&descAlignY=58&animation=fadeIn" alt="Semyen Pukhov — Senior Full-Stack Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,100:4f48d6&text=Simon%20Pukhov&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%207%2B%20years&descSize=20&descAlignY=60" alt="Simon Pukhov — Senior Full-Stack Engineer" />
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=E3A13C&center=true&vCenter=true&width=720&lines=7%2B+years+shipping+production+products;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+AWS;Realtime+systems+%C2%B7+performance+%C2%B7+cost+optimization;Startup+%26+founding+engineer+experience" alt="Typing intro" />
-
-<br/><br/>
 
 <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="TELEGRAM_URL"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
@@ -18,12 +14,23 @@
 I build product systems end to end: the interface people use, the APIs and
 background jobs behind it, and the operational details that keep it fast and
 affordable. Led a ~6-person cross-functional team; launched startup products
-that reached production, real users, and revenue.
+that reached production, real users, and revenue. AI-native workflow: I ship
+daily with Claude Code and agent pipelines, and build LLM features as an
+engineer — cost tracking, retries, and provider abstraction included.
 
 ## 🛠 Stack
 
 <div align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,fastapi,postgres,redis,aws,docker,githubactions&perline=12" alt="Tech stack icons" /></a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/AI%20Agents-4f48d6?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LLM%20APIs-e3a13c?style=for-the-badge" alt="LLM APIs" />
+  <img src="https://img.shields.io/badge/WebSockets-333?style=for-the-badge" alt="WebSockets" />
+
 </div>
 
 ## 🚀 Featured builds
@@ -83,16 +90,14 @@ that reached production, real users, and revenue.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SemyenPukhov&show_icons=true&hide_border=true&bg_color=00000000&title_color=e3a13c&icon_color=8781f2&text_color=9c9aab&ring_color=e3a13c" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemyenPukhov&layout=compact&hide_border=true&bg_color=00000000&title_color=e3a13c&text_color=9c9aab&langs_count=8" alt="Top languages" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=SemyenPukhov&hide_border=true&background=00000000&ring=e3a13c&fire=e3a13c&currStreakLabel=e3a13c&sideLabels=9c9aab&sideNums=eceaf0&currStreakNum=eceaf0&dates=6d6b7c" alt="Contribution streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SemyenPukhov&theme=discord&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SemyenPukhov/SemyenPukhov/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/SemyenPukhov/SemyenPukhov/output/github-snake.svg" alt="Contribution snake" />
+</picture>
 
 </div>
 
