@@ -17,7 +17,7 @@ applications, and cross-functional technical leadership.
 |  | Project | What it demonstrates |
 | :-- | :-- | :-- |
 | ↗ | [**CostLens**](https://github.com/SemyenPukhov/costlens) | Cloud-cost intelligence dashboard: typed domain logic, anomaly detection, validated API route, Docker, CI, tests, and a polished responsive UI. |
-| ◌ | **RelayDesk** · in progress | Real-time collaboration and support workflows: presence, authorization, optimistic updates, and audit events. |
+| ↗ | [**RelayDesk**](https://github.com/SemyenPukhov/relaydesk) | Realtime support inbox: WebSocket gateway, optimistic sends with idempotent retries, presence, role-based permissions, and an audit trail. |
 | ◌ | **StreamForge** · planned | Media workflows, processing jobs, CDN-aware delivery, and performance instrumentation. |
 | ◌ | **FlowPilot** · planned | AI workflow automation with provider abstraction, queueing, retries, rate limits, and token controls. |
 
