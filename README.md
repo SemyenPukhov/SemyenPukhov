@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="TELEGRAM_URL"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/semyon-pukhov-223343177/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://t.me/sempukhov"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
 <a href="mailto:semyenpukhov@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20me-e3a13c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Senior%20Full--Stack%20roles-4cc796?style=for-the-badge" alt="Open to work" />
 
@@ -107,8 +107,8 @@ engineer — cost tracking, retries, and provider abstraction included.
 
 Open to **Senior Full-Stack Engineer** roles — Europe · US · Cyprus · remote-first teams.
 
-<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="TELEGRAM_URL"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/semyon-pukhov-223343177/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://t.me/sempukhov"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
 <a href="mailto:semyenpukhov@gmail.com"><img src="https://img.shields.io/badge/semyenpukhov@gmail.com-e3a13c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
