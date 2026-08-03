@@ -1,11 +1,15 @@
-<img src="./assets/profile-hero.svg" alt="Semyen Pukhov — Senior Full-Stack Engineer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0d13,50:4f48d6,100:e3a13c&text=Semyen%20Pukhov&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer&descSize=24&descAlignY=58&animation=fadeIn" alt="Semyen Pukhov — Senior Full-Stack Engineer" />
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=E3A13C&center=true&vCenter=true&width=720&lines=7%2B+years+shipping+production+products;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+AWS;Realtime+systems+%C2%B7+performance+%C2%B7+cost+optimization;Startup+%26+founding+engineer+experience" alt="Typing intro" />
+
+<br/><br/>
 
 <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="TELEGRAM_URL"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
 <a href="mailto:semyenpukhov@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20me-e3a13c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Senior%20Full--Stack%20roles-4cc796?style=for-the-badge" alt="Open to Senior Full-Stack roles" />
+<img src="https://img.shields.io/badge/Open%20to-Senior%20Full--Stack%20roles-4cc796?style=for-the-badge" alt="Open to work" />
 
 </div>
 
@@ -13,46 +17,26 @@
 
 I build product systems end to end: the interface people use, the APIs and
 background jobs behind it, and the operational details that keep it fast and
-affordable. **7+ years** across startup products, real-time applications, and
-cross-functional technical leadership — including founding-engineer and
-engineering-management roles.
-
-- 🔭 Currently building out a portfolio of production-style systems — realtime, cost intelligence, and LLM tooling
-- ⚡ I care about **performance and cost** the way most people care about features
-- 🧭 Led a ~6-person cross-functional team (design, QA, backend, full-stack, DevOps)
-- 🌍 Open to roles in **Europe · US · Cyprus · remote**
+affordable. Led a ~6-person cross-functional team; launched startup products
+that reached production, real users, and revenue.
 
 ## 🛠 Stack
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/WebSockets-8781f2?style=for-the-badge" alt="WebSockets" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,fastapi,postgres,redis,aws,docker,githubactions&perline=12" alt="Tech stack icons" /></a>
 </div>
 
 ## 🚀 Featured builds
 
-| | Project | What it demonstrates | |
+| | Project | What it demonstrates | CI |
 | :-- | :-- | :-- | :-- |
 | 💬 | [**RelayDesk**](https://github.com/SemyenPukhov/relaydesk) | Realtime support inbox — WebSocket gateway, optimistic sends with idempotent retries, presence, RBAC, audit trail | ![CI](https://github.com/SemyenPukhov/relaydesk/actions/workflows/ci.yml/badge.svg) |
 | 🤖 | [**FlowPilot**](https://github.com/SemyenPukhov/flowpilot) | LLM workflow engine — provider abstraction, retries with jittered backoff, token accounting, per-run cost budgets | ![CI](https://github.com/SemyenPukhov/flowpilot/actions/workflows/ci.yml/badge.svg) |
 | 📊 | [**CostLens**](https://github.com/SemyenPukhov/costlens) | Cloud-cost intelligence dashboard — typed domain logic, anomaly detection, Docker, tests, polished responsive UI | ![CI](https://github.com/SemyenPukhov/costlens/actions/workflows/ci.yml/badge.svg) |
 | 🎬 | **StreamForge** · *in progress* | Media pipeline — processing jobs, CDN-aware delivery, performance instrumentation | |
 
-> Portfolio projects are independent demos with fictional data. They show how I
-> work without exposing NDA-protected products, customers, or internal systems.
+> Portfolio projects are independent demos with fictional data — they show how
+> I work without exposing NDA-protected products or customers.
 
 <table>
   <tr>
@@ -87,8 +71,6 @@ engineering-management roles.
 
 ## 🧩 Engineering notes & snippets
 
-Patterns I keep reaching for, published as gists:
-
 | Area | Snippets |
 | :-- | :-- |
 | ⚛️ React | [Debounced async search without race conditions](https://gist.github.com/SemyenPukhov/92f1e509d2277dbcb4b271c23e37fc66) · [Optimistic mutation hook with rollback](https://gist.github.com/SemyenPukhov/48d6a2cb7e78bdb91d1d56b6ee7338b0) |
@@ -101,8 +83,16 @@ Patterns I keep reaching for, published as gists:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SemyenPukhov&show_icons=true&hide_border=true&bg_color=00000000&title_color=e3a13c&icon_color=8781f2&text_color=9c9aab&ring_color=e3a13c" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemyenPukhov&layout=compact&hide_border=true&bg_color=00000000&title_color=e3a13c&text_color=9c9aab&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SemyenPukhov&show_icons=true&hide_border=true&bg_color=00000000&title_color=e3a13c&icon_color=8781f2&text_color=9c9aab&ring_color=e3a13c" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemyenPukhov&layout=compact&hide_border=true&bg_color=00000000&title_color=e3a13c&text_color=9c9aab&langs_count=8" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=SemyenPukhov&hide_border=true&background=00000000&ring=e3a13c&fire=e3a13c&currStreakLabel=e3a13c&sideLabels=9c9aab&sideNums=eceaf0&currStreakNum=eceaf0&dates=6d6b7c" alt="Contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SemyenPukhov&theme=discord&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
@@ -110,10 +100,12 @@ Patterns I keep reaching for, published as gists:
 
 <div align="center">
 
-Open to **Senior Full-Stack Engineer** opportunities — Europe, US, Cyprus, and remote-first teams.
+Open to **Senior Full-Stack Engineer** roles — Europe · US · Cyprus · remote-first teams.
 
 <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="TELEGRAM_URL"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
 <a href="mailto:semyenpukhov@gmail.com"><img src="https://img.shields.io/badge/semyenpukhov@gmail.com-e3a13c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:e3a13c,50:4f48d6,100:0b0d13&section=footer" alt="" />
